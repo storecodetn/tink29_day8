@@ -1,1 +1,1 @@
-# tink29_day8
+Solution contest 10Tin_Day8
